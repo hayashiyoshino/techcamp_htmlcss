@@ -1,0 +1,21 @@
+p{
+  color: red;
+}
+.box1{
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  opacity: 0.5;
+}
+.box2{
+  width: 150px;
+  height: 150px;
+  background-color: green;
+  opacity: 0.5;
+}
+.box3{
+  width: 120px;
+  height: 120px;
+  background-color: blue;
+  opacity: 0.5;
+}
